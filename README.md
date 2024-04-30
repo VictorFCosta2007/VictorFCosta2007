@@ -14,7 +14,7 @@
   <a href="https://api.whatsapp.com/send?phone=5511986445869">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="">
+  <a href="https://www.linkedin.com/in/victor-ferreira-54549a2a9/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
