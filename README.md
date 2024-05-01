@@ -4,7 +4,8 @@
 </div>
 
 <div align="center"">
-<img src= https://github-readme-stats.vercel.app/api?username=VictorFCosta2007&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vision-friendly-dark>
+<img height="180em" src= https://github-readme-stats.vercel.app/api?username=VictorFCosta2007&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vision-friendly-dark>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFCosta2007&layout=compact&theme=vision-friendly-dark"/>
 <br>
 
 </div>
@@ -32,4 +33,16 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
   </div>
+
+ 
+ 
+  
+  
+  
+
+
+
+  
+  
+    
 
