@@ -4,24 +4,25 @@
 </div>
 
 <div align="center"">
-<img height="180em" src= https://github-readme-stats.vercel.app/api?username=VictorFCosta2007&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vision-friendly-dark>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samuel-Junior21&theme=vision-friendly-dark" alt="mystreak"/> <p></p>
+  <br>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFCosta2007&layout=compact&theme=vision-friendly-dark"/>
-<br>
+  <br>
 
 </div>
 
 <div align="center">
     <h3>Social Medias</h3>
-  <a href="https://api.whatsapp.com/send?phone=5511986445869">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/victor-ferreira-54549a2a9/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+  
+  [![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511986445869)
+  [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ferreiracostavictor/)
+  
+  [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorferreiracosta@gmail.com)
+  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-ferreira-54549a2a9/)
 
-<div style="display: flex; flex-direction: column;" align="center">
-  <h3>Interests</h3>
+
+<div style="display: flex; flex-direction: column;" align="left">
+  <h1>Interests</h1>
   <div style="flex: 1;">
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
