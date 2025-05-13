@@ -1,10 +1,15 @@
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=950&pause=650&color=FFB423&random=false&width=435&lines=Sup!+Im+Victor;Do+you+want+to+know+more+about+me%3F;Explore+my+profile!;Iai!+Eu+me+chamo+Victor.;Quer+saber+mais+sobre+mim%3F;Explore+meu+perfil!)](https://git.io/typing-svg)
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=VictorFCosta2007&theme=highcontrast)
 </div>
 
 <div align="center"">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samuel-Junior21&theme=vision-friendly-dark" alt="mystreak"/> <p></p>
+  
+  
+
+  
   <br>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFCosta2007&layout=compact&theme=vision-friendly-dark"/>
   <br>
