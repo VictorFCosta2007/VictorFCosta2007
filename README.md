@@ -13,7 +13,7 @@
 ## 🛡️ Cyber Profile
 
 **Name:** Victor Ferreira  
-**Focus:** Cybersecurity & Backend Engineering  
+**Focus:** Cybersecurity
 **Interest:** Offensive + Defensive Security  
 **OS:** Linux  
 **Mindset:** Secure by design  
