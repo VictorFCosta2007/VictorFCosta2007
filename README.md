@@ -13,7 +13,7 @@
 ## 🛡️ Cyber Profile
 
 **Name:** Victor Ferreira  
-**Focus:** Cybersecurity
+**Focus:** Cybersecurity <br>
 **Interest:** Offensive + Defensive Security  
 **OS:** Linux  
 **Mindset:** Secure by design  
