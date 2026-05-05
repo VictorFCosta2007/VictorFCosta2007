@@ -2,18 +2,11 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=950&pause=650&color=FFB423&random=false&width=435&lines=Sup!+Im+Victor;Do+you+want+to+know+more+about+me%3F;Explore+my+profile!;Iai!+Eu+me+chamo+Victor.;Quer+saber+mais+sobre+mim%3F;Explore+meu+perfil!)](https://git.io/typing-svg)
   
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=VictorFCosta2007&theme=highcontrast)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VictorFCosta2007&theme=dark)](https://git.io/streak-stats)
 </div>
 
 <div align="center"">
-  
-  
-
-  
   <br>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFCosta2007&layout=compact&theme=vision-friendly-dark"/>
-  <br>
-
 </div>
 
 <div align="center">
